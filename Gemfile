@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'jekyll'
+gem 'packr'
+gem 'jekyll-asset-pipeline'
+gem 'yui-compressor'
+gem 'rake'
+gem 'stringex'
