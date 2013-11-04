@@ -1,0 +1,10 @@
+<article class="archive">
+  <div class="archive-post">
+    <h3 class="archive-headline">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h3>
+    <time class="archive-date" datetime="{{ post.date | datetime | date_to_xmlschema }}">
+      {{ post.date | date: site.date_format }}
+    </time>
+  </div>
+</article>
