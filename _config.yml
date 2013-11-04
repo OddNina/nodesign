@@ -1,3 +1,44 @@
-name: Your New Jekyll Site
+name: NODesign
 markdown: redcarpet
 pygments: true
+
+root: /
+permalink: /:year/:month/:title/
+
+category_dir: /category/
+date_format: "%d %B %Y"
+
+paginate: 6          # Posts per page on the blog index
+paginate_path: /page/:num  # Directory base for pagination URLs eg. /blog/page/2/
+recent_posts: 5       # Posts in the sidebar Recent Posts section
+excerpt_link: "Weiter lesen"  # "Continue reading" link text at the bottom of excerpted articles
+
+titlecase: false       # Converts page and post titles to titlecase
+excerpt_separator: <!--more-->  # excerpt seperator
+
+linklog_marker: "&rarr;"
+
+exclude: 
+  - Gemfile 
+  - Gemfile.lock
+  - Rakefile
+
+asset_pipeline:
+  bundle: true            # Default = true
+  compress: true          # Default = true
+  output_path: css     # Default = assets
+  display_path: nil       # Default = nil
+  gzip: true             # Default = false
+
+## -- Rsync Deploy config -- ##
+# Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
+ssh_user       : ""
+ssh_port       : ""
+document_root  : ""
+rsync_delete   : true
+rsync_args     : ""  # Any extra arguments to pass to rsync
+deploy_default : "rsync"
+
+# Disqus Comments
+disqus_short_name: OddNina
+disqus_show_comment_count: false
