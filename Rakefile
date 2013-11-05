@@ -1,7 +1,7 @@
 require "stringex"
 
-ssh_user       = "oddnina@aquarius.uberspace.de"
-ssh_port       = "22"
+ssh_user       = ""
+ssh_port       = ""
 document_root  = "~/html/"
 rsync_delete   = true
 deploy_default = "rsync"
