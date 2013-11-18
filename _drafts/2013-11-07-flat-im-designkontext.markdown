@@ -13,6 +13,8 @@ Als erster Einfluß wird die Moderne und insbesondere das Bauhaus genannt. Der V
 Alle Elemente, die keine direkte Funktion haben, sondern nur dazu dienen, auszuschmücken, werden entfernt. 
 Anstatt den Inhalt über aufwändige Oberflächen zu transportieren, sorgt man dafür, dass die Nachricht für sich selbst steht.
 
+<!--more-->
+
 > The content is the interface
 
 Struktur wird durch die Information erzeugt. Es ist keine weitere Dekoration notwendig.

@@ -13,6 +13,8 @@ Wir sind es gewohnt, über verschiedenste Kanäle auf einen enormen Pool von Inf
 Allerdings ist Zugriff schon lange nicht mehr alles. Wir erstellen und verändern Inhalte.
 Wir wollen kanalisieren, posten, kategorisieren, kommentieren und filtern. Wir wollen selbstbestimmt sein.
 
+<!--more-->
+
 Jedoch sind wir keine Computer. Wir sind nicht direkt an die Informationsquellen angeschlossen.
 Um Einfluss auf die digitale Datensammlung zu haben, benötigen wir Schnittstellen.
 Die Verbreitung der nötigen Hardware schreitet schon länger schnell voran.
