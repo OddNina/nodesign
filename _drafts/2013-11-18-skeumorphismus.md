@@ -4,10 +4,12 @@ title: "Wirklich alles schlecht an Skeumorphismus"
 date: 2013-11-05 17:02
 comments: true
 categories: 
-author: 
+author: Nina
 ---
 
 Habt ihr eigentlich ne Ahnung was Skeuomorphismus ist? Der Begriff klingt groß und bedeutet irgendwas zwischen Behältnis und Gestalt und ist hauptsächlich eine Gestaltungsrichtung, die eigentlich jedem bekannt ist, besonders wenn ihr seit mehreren Generationen ein iPhone benutzt. 
+
+<!--more-->
 
 ##Was versteht man unter Skeumorphismus
 Mithilfe von Skeumorphismus soll sich etwas abstraktes anfühlen, als wäre es bekannt. Beispiele dafür sind mechanische Geräusche in Autos, die heutzutage rein technisch eingespielt werden oder bei Software ist es so, das Notizen auf rauem Papier getippt werden.
@@ -27,6 +29,5 @@ Es ist zuviel. Es ist zuviel Leder, zuviel Papier, zuviel Verlauf, zuviel glossy
 Klar! Der Gedanke daran, das Software unserem realen Leben so ähnlich wie möglich sein sollte ist nett und sicher auch logisch, aber über die Jahre in denen von Skeumorphismus gebrauch gemacht wird sind die visuell realistischen Einflüsse im Design so groß geworden, das es überladen wirkt. 
 
 ##Wirklich alles schlecht an Skeumorphismus?
-Nein, eigentlich ist gar nichts schlecht am Skeumorphismus, da er realistische Layouts und Bezüge auf etwas transportiert, das für viele Benutzer schon an sich, unrealistisch genug ist. 
-
+Nein, eigentlich ist gar nichts schlecht am Skeumorphismus. Da der Skeumorphismus realistische Layouts und Bezüge auf etwas transportiert, das für viele Benutzer schon an sich, unrealistisch genug ist. Also macht er mithilfe der Verbindung bestimmte funktionsweisen unterbewusst deutlich. Schlecht ist nur, das der Realismus im Skeumorphismus zu wichtig geworden ist. Daher fühlt sich Flat Design jetz für viele Designer an wie ein Befreiungsschlag. Ein Befreiungsschlag der entdeckt werden will. 
 
