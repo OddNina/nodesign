@@ -9,11 +9,11 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Roboto Slab', serif; font-size: 120%; lin
 
 h1 { margin: 0 auto; font-size: 200%; font-weight: 400; }
 
-p { margin: 1em 0; }
+p { margin: 1em 0em 1.5em 0em; }
 
 a         { text-decoration: none; color: #4e85c4; }
 a:hover   { text-decoration: none; color: #98beeb; }
-a:visited { text-decoration: none; color: #3468a4; }
+/* a:visited { text-decoration: none; color: #3468a4; } */
 
 blockquote { border-left: 0.3em solid #e0e0e0; padding-left: 1em; margin-left: 1em;}
 
