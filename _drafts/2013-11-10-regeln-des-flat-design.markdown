@@ -14,7 +14,6 @@ Folgende Regeln bilden die Grundlage für flat design.
 
 <!--more-->
 
-<br />
 ###Einfachheit
 
 Das Auffälligste am flat design ist wohl seine Schnörkellosigkeit.
@@ -27,12 +26,8 @@ Die Struktur einer Benutzeroberfläche ergibt sich im Optimalfall, auch ohne wei
 
 ![flat ui colors]({{ site.url }}/images/blog/2013/mini.png)
 http://www.jansemler.de/
-<br /><br />
-
-
 
 ###Typografie
-
 Durch das zurückgenommene Design rückt der Fokus auf den Inhalt.
 Dieser lässt sich durch die Wahl von passenden Schriftarten charakterisieren.
 Einzelne Logos und Überschriften dürfen dabei gern ausgefallen gestaltet sein.
@@ -45,11 +40,8 @@ Das kann Verwirrung stiften und die Klarheit in Struktur und Design zerstören.
 
 ![flat ui colors]({{ site.url }}/images/blog/2013/typo.png)
 http://www.swissted.com/
-<br /><br />
-
 
 ###Farben
-
 Auch Farben können einem Design hinzugefügt werden, ohne neue Elemente in die Oberfläche einbauen zu müssen.
 Farben sind deshalb eine wichtige gestalterische Komponente von flat design.
 Sie geben einer Oberfläche in erster Linie einen Charakter, der mit den sonst minimalistischen Mitteln nur schwer umzusetzen wäre.
@@ -59,11 +51,8 @@ Das sorgt dafür, dass sie oft freundlich und aufgeräumt wirken.
 
 ![flat ui colors]({{ site.url }}/images/blog/2013/flatcolors.png)
 http://flatuicolors.com/
-<br /><br />
 
-  
 ###Bilder und Symbole
-
 Im ersten Moment könnte man meinen, Bilder würden nicht in der Konzept von flat design passen.
 Ihnen ist meisten genau die Tiefe inne, die wir sonst im flat design zu vermeiden versuchen.
 Trotzdem funktioniert es, Bilder einfach als Inhalt in Designs mit einzubauen.
@@ -72,7 +61,6 @@ Oft werden auch großflächige Bilder für Hintergründe oder in Headern verwend
 Das widerspricht dann zwar flat design in seiner Reinform, funktioniert aber trotzdem erstaunlich gut.
 Symbole und Icons wiederum sollten dem minimalistischen Stil der restlichen Formen folgen.
 Bunte, abgesetzte Bedienelemente machen dem Benutzer direkt klar, wo er Einfluß nehmen kann und wo nicht.
-
 
 ![flat ui colors]({{ site.url }}/images/blog/2013/flatsymbols.png)
 http://www.behance.net/gallery/Free-web-icon/9138629
