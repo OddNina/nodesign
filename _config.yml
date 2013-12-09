@@ -18,6 +18,9 @@ excerpt_separator: <!--more-->  # excerpt seperator
 
 linklog_marker: "&rarr;"
 
+permalink_label: "Permalink &infin;"
+permalink_label_feed: "&infin; Permalink"
+
 exclude: 
   - Gemfile 
   - Gemfile.lock

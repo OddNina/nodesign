@@ -58,6 +58,7 @@ task :new_post, :title do |t, args|
     post.puts "comments: true"
     post.puts "categories: "
     post.puts "author: "
+    post.puts "external-url:"
     post.puts "---"
   end
 end
